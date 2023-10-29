@@ -1,0 +1,32 @@
+Git Terminology
+---------------
+
+-git init [repository_name]
+	-to create git repository(in local)
+
+-git clone [url]
+	- to clone the repository from remote(online) to local area(computer)
+
+-git add [file]
+	-to add the updated file to staging area
+
+-git add *
+	-to add the all updated file to staging area (using wild card)
+
+-git reset [file]
+	-to remove the files on the staging area
+
+-git status
+	-to check the status of files to be update or not
+
+-git commit -m "any message about changes"
+	-to commit the changed files
+
+-git commit -a
+	-to confirm the added and updated files
+
+-git push
+	-to upload the updated files to remote repository
+
+-git pull
+	-to download the updated files from remote repository to local(computer)
