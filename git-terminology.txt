@@ -44,3 +44,14 @@ Use before commit
 -gitignore
 	-declare the name of files don't want to add the tracking on git
 	-if folder, use '/foldername'
+
+
+-git branch "branch name"
+	-to create new branch
+
+-git checkout "branch name"
+	-to switch to desired branch
+
+
+-git merge "branch name"
+	-use this comment to merge the desired branch from current branch
