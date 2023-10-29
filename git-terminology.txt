@@ -36,3 +36,11 @@ Git Terminology
   git config --global user.name "Your Name"
 
 Use before commit
+
+
+-touch file.intension
+	-use to  create new file
+
+-gitignore
+	-declare the name of files don't want to add the tracking on git
+	-if folder, use '/foldername'
