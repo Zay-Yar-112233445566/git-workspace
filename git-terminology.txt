@@ -25,8 +25,14 @@ Git Terminology
 -git commit -a
 	-to confirm the added and updated files
 
--git push
+-git push  ( -u origin main)
 	-to upload the updated files to remote repository
 
 -git pull
 	-to download the updated files from remote repository to local(computer)
+
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+Use before commit
